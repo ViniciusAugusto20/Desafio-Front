@@ -1,0 +1,22 @@
+{
+  "surveys": [
+    {
+      "id": "8df9e919-6aea-45ee-a2f3-4094fa1378c0",
+      "name": "Cypress Teste",
+      "rating": 4,
+      "commentary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+    },
+    {
+      "id": "71c760cb-75a9-4afd-ab2f-1d59da475b39",
+      "name": "Vinicius",
+      "rating": 5,
+      "commentary": "Gostei muito"
+    },
+    {
+      "id": "4640bc4e-5bd1-45ec-8b7c-285c5c5a4d51",
+      "name": "Arlindo Orlando",
+      "rating": 3,
+      "commentary": ""
+    }
+  ]
+}
